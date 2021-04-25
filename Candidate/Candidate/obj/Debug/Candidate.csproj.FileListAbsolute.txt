@@ -1,0 +1,10 @@
+D:\3 курс\Практика\Андрей\Candidate\Candidate\obj\Debug\Candidate.csprojAssemblyReference.cache
+D:\3 курс\Практика\Андрей\Candidate\Candidate\obj\Debug\Candidate.Form1.resources
+D:\3 курс\Практика\Андрей\Candidate\Candidate\obj\Debug\Candidate.Properties.Resources.resources
+D:\3 курс\Практика\Андрей\Candidate\Candidate\obj\Debug\Candidate.csproj.GenerateResource.cache
+D:\3 курс\Практика\Андрей\Candidate\Candidate\obj\Debug\Candidate.csproj.CoreCompileInputs.cache
+D:\3 курс\Практика\Андрей\Candidate\Candidate\bin\Debug\Candidate.exe.config
+D:\3 курс\Практика\Андрей\Candidate\Candidate\bin\Debug\Candidate.exe
+D:\3 курс\Практика\Андрей\Candidate\Candidate\bin\Debug\Candidate.pdb
+D:\3 курс\Практика\Андрей\Candidate\Candidate\obj\Debug\Candidate.exe
+D:\3 курс\Практика\Андрей\Candidate\Candidate\obj\Debug\Candidate.pdb
